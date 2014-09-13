@@ -6,7 +6,6 @@ defmodule Three do
 				elem(19) |>
 				hd |>
 				elem(8)
-			_ -> []
 		end
 	end
 
